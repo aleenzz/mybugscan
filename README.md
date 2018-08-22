@@ -1,6 +1,6 @@
 # mybugscan
 fofa_api+bugscan插件扫描
-#用途
+# 用途
 主要用于找靶机地址，也可以用于批量测试
 #结构
 ```
