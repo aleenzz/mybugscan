@@ -1,5 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+#Author:404
+#By T00ls.Net
 from  bugscan import *
 import fofa
 import argparse
